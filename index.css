@@ -97,13 +97,13 @@ body {
 
 .socials {
   background-color: #39414c;
-  padding: 30px 0;
+  padding: 60px;
   text-align: center;
 }
 
 .twitter-massage {
   width: 40%;
-  margin: 20px auto;
+  margin: 1px auto;
   color: #fff;
   line-height: 1.7;
 }
@@ -121,8 +121,8 @@ body {
 
 .copyright {
   display: inline-block;
-  width: 49%;
   text-align: right;
+  width: 49%;
   color: gray;
 }
 
@@ -142,4 +142,8 @@ body {
   color: gray;
   text-decoration: none;
   margin: 0 10px;
+}
+
+.img {
+  width: 20px;
 }
